@@ -4,6 +4,7 @@
  Brackets for reducing travel in mechanical fret modded Clone Hero controllers.
 
 ![alt-text](https://github.com/Pixelholic/switch-bracket/blob/main/Images/shim3.jpg)
+
 This is to replace the usage of ball bearings inside of the mechanical switches (Kailh Choc) used for frets, as inconsistencies and overtapping occur using that method.
 
 ![alt-text](https://github.com/Pixelholic/switch-bracket/blob/main/Images/shim2.jpg)
